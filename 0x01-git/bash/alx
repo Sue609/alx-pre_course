@@ -1,5 +1,4 @@
 #1/bin/bash
-
-
 echo "ALX school"
+echo "The school is open!"
 
