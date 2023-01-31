@@ -1,2 +1,6 @@
 #1/bin/bash
+<<<<<<< HEAD
 echo "ALX school is cool!" 
+=======
+echo "ALX school" 
+>>>>>>> update_script
